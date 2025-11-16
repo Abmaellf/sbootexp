@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sbootexp
+#  datasource:
+#    url: jdbc:postgresql://localhost:5432/sbootexpbd
+#    username: sbootexp
+#    password: 141620
+#    driver-class-name: org.postgresql.Driver
